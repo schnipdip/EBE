@@ -17,5 +17,5 @@ Ebe is an Android and iOS hybrid application that saves the current location in 
 For bugs, security exploits and ideas please create a new [ISSUE]
 
 [ISSUE]: https://github.com/schnipdip/EBE/issues
-[Android]: https://google.com
-[iOS]: https://apple.com
+[Android]: https://play.google.com/store/apps/details?id=com.ebeapp.ebe
+[iOS]: https://apps.apple.com/app/ebe/id6443468551?platform=iphone
